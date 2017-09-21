@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
 	#Get command line arguments
 	parser = argparse.ArgumentParser()
-	parser.add_argument("-i", help="specify the path to the image file", required=True)
+	parser.add_argument("-i", help="specify the path to the wallpaper/image file", required=True)
 	parser.add_argument("-n", action="store_true", help="do not set wallpaper")
 	args = parser.parse_args()
 

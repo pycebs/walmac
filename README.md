@@ -11,7 +11,7 @@ macOS color scheme creator for ITerm2 and Terminal.app
 $ chmod +x walmac.py
 $ ./walmac -i /path/to/wallpaper.jpg
 ```
-Once a color scheme has been successfully created, simply import it into iTerm2 and choose the correct color scheme in the dropdown.
+Once a color scheme has been successfully created, simply import it into iTerm2 (Preferences -> Profiles -> Colors) and choose the correct color scheme in the dropdown.
 
 ## Roadmap
 - [x] Extract colors and set wallpaper on macOS
